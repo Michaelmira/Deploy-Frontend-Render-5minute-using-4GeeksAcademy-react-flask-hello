@@ -25,6 +25,8 @@
 
 # pnpm add html-webpack-plugin@latest  ???
 
+<h1>FAQ</h1>
+
 <strong> 404 not found when i refresh a page rather then go to the page. </strong>
 
 "To fix this issue on Render:
@@ -34,3 +36,8 @@ Add the following rule:"
 1. Source: /*
 2. Destination: /
 3. Action: Rewrite"
+
+<h4>If gettihng pnpm lock error, delete the pnpm-lock.yaml and do pnpm install</h4>
+<h4>If gettihng npm lock error, delete the package-lock.jsonm and do npm install</h4>
+
+   
