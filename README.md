@@ -41,3 +41,9 @@ Add the following rule:"
 <h4>If gettihng npm lock error, delete the package-lock.jsonm and do npm install</h4>
 
    
+<p>Notes: 
+pnpm install --no-frozen-lockfile
+git add pnpm-lock.yaml
+git commit -m "Update lockfile to match package.json"
+git push
+</p>
