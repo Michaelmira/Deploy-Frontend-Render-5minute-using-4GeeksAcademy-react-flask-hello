@@ -47,3 +47,5 @@ git add pnpm-lock.yaml
 git commit -m "Update lockfile to match package.json"
 git push
 </p>
+
+<p>Notes: Optimized for react 16..... ("react": "^16.8.4",</p>
