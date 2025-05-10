@@ -25,6 +25,10 @@
 
 # pnpm add html-webpack-plugin@latest  ???
 
+# Render Static Site.
+1. Build Command: npm run build
+2. Publish Directory: dist   
+
 <h1>FAQ</h1>
 
 <strong> 404 not found when i refresh a page rather then go to the page. </strong>
